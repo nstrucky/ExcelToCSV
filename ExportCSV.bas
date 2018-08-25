@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "ExportCSV"
 '-----------------Created by Nicholas Struckmeyer 8/10/2018---------------------------
 
 'Method for exporting values as CSV from a workbook by reading cell names based on
